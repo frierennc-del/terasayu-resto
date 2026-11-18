@@ -1284,10 +1284,8 @@ body[data-halaman="login"] main.wadah {
   font-weight: 600;
 }
 
-.kaki-info p {
+.kaki-info  {
   margin-top: 4px;
-    text-align: justify;
-    font-family:"Poppins";
 }
 
 /* ===== FITUR METODE PEMBAYARAN FOOTER ===== */
