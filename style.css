@@ -1288,6 +1288,10 @@ body[data-halaman="login"] main.wadah {
   margin-top: 4px;
 }
 
+.kaki-logo p {
+    text-align: justify;
+}
+
 /* ===== FITUR METODE PEMBAYARAN FOOTER ===== */
 .kaki-bayar {
     display: flex;
