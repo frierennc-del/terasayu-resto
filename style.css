@@ -310,6 +310,7 @@ main.wadah {
 
 /*===FITUR PENCARIAN MENU===*/
 .cari {
+    min-width: 0;
     order: 3;
     display: flex;
     flex: 1 1 100%;
@@ -322,6 +323,7 @@ main.wadah {
 
 .cari input {
     flex: 1;
+    width: 100%;
     min-width: 0;
     padding: 6px 10px;
     border: 0;
