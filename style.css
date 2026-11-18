@@ -1251,10 +1251,6 @@ body[data-halaman="login"] main.wadah {
   background: var(--krem);
 }
 
-.kaki-logo p {
-    text-align: justify;
-}
-
 /* ===== FITUR JUDUL DAN DAFTAR INFORMASI FOOTER ===== */
 .kaki-judul {
   display: flex;
@@ -1290,6 +1286,8 @@ body[data-halaman="login"] main.wadah {
 
 .kaki-info {
   margin-top: 4px;
+    text-align: justify;
+    font-family:"Poppins";
 }
 
 /* ===== FITUR METODE PEMBAYARAN FOOTER ===== */
